@@ -1,23 +1,3 @@
-Programiz
-
-Search Programiz
-C++ Program to Check Whether a Number can be Express as Sum of Two Prime Numbers
-Example to check if an integer (entered by the user) can be expressed as the sum of two prime numbers of all possible combinations with the use of functions.
-
-
-To understand this example, you should have the knowledge of the following C++ programming topics:
-
-C++ for Loop
-C++ if, if...else and Nested if...else
-C++ Functions
-Types of User-defined Functions in C++
-This program takes a positive integer from user and checks whether that number can be expressed as the sum of two prime numbers.
-
-If the number can be expressed as sum of two prime numbers, the output shows the combination of the prime numbers.
-
-To perform this task, a user-defined function is created to check prime number.
-
-Example: Check Whether a Number can be Expressed as a Sum of Two Prime Numbers
 #include <iostream>
 using namespace std;
 
